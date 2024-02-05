@@ -368,8 +368,8 @@ footer p {
  
 }
 
-@media screen and (min-width:320px) {
+@media screen and (min-width:320px) 
+{
 .container {
   display:flex;
-
 }
